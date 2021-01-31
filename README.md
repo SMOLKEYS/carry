@@ -1,4 +1,3 @@
-# MindustryMod-Template
-Mindustry Mod Template
+# carry
 
-フォルダを削除したい場合はフォルダ内の".gitkeep"を消してください。
+he carries the block
